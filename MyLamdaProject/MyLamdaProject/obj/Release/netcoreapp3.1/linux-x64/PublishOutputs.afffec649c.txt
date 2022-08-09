@@ -1,0 +1,18 @@
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Data\Nicholus Magak CV.docx
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\MyLamdaProject.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\MyLamdaProject.deps.json
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\MyLamdaProject.runtimeconfig.json
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\MyLamdaProject.pdb
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\HarfBuzzSharp.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\SkiaSharp.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\SkiaSharp.HarfBuzz.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.Compression.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.DocIO.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.DocIORenderer.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.Licensing.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.OfficeChart.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.Pdf.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\Syncfusion.SkiaSharpHelper.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\publish\libSkiaSharp.so

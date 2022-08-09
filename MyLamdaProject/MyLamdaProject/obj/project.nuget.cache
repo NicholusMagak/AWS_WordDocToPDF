@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "oy7yM8oYjowpJUCjpT8Vjgs95Qp7aVC04gnsfamwnzvfVo1xjOH47FmLlhj/gdO1ZxkipDuZqcFjNm9G/KQOiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GM\\source\\repos\\MyLamdaProject\\MyLamdaProject\\MyLamdaProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GM\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\harfbuzzsharp\\2.8.2-preview.209\\harfbuzzsharp.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2-preview.209\\harfbuzzsharp.nativeassets.macos.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2-preview.209\\harfbuzzsharp.nativeassets.win32.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\skiasharp\\2.88.0\\skiasharp.2.88.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.0-preview.209\\skiasharp.harfbuzz.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.0\\skiasharp.nativeassets.linux.2.88.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0\\skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0\\skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.compression.net.core\\20.2.0.43\\syncfusion.compression.net.core.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.docio.net.core\\20.2.0.43\\syncfusion.docio.net.core.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.dociorenderer.net.core\\20.2.0.43\\syncfusion.dociorenderer.net.core.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.licensing\\20.2.0.43\\syncfusion.licensing.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.officechart.net.core\\20.2.0.43\\syncfusion.officechart.net.core.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.pdf.net.core\\20.2.0.43\\syncfusion.pdf.net.core.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\syncfusion.skiasharphelper.net.core\\20.2.0.43\\syncfusion.skiasharphelper.net.core.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\GM\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

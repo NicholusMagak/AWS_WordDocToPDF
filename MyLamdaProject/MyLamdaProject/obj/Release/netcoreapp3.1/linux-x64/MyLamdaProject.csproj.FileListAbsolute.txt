@@ -1,0 +1,27 @@
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Data\Nicholus Magak CV.docx
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\MyLamdaProject.deps.json
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\MyLamdaProject.runtimeconfig.json
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\MyLamdaProject.runtimeconfig.dev.json
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\MyLamdaProject.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\MyLamdaProject.pdb
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\HarfBuzzSharp.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\SkiaSharp.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\SkiaSharp.HarfBuzz.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.Compression.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.DocIO.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.DocIORenderer.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.Licensing.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.OfficeChart.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.Pdf.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\Syncfusion.SkiaSharpHelper.Portable.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\bin\Release\netcoreapp3.1\linux-x64\libSkiaSharp.so
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.csprojAssemblyReference.cache
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.AssemblyInfoInputs.cache
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.AssemblyInfo.cs
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.csproj.CoreCompileInputs.cache
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.csproj.CopyComplete
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.dll
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.pdb
+C:\Users\GM\source\repos\MyLamdaProject\MyLamdaProject\obj\Release\netcoreapp3.1\linux-x64\MyLamdaProject.genruntimeconfig.cache

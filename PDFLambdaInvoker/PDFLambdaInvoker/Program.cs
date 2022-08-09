@@ -16,7 +16,7 @@ namespace PDFLambdaInvoker
         static void Main(string[] args)
         {
             // Create a new AmazonLambdaClient
-            AmazonLambdaClient client = new AmazonLambdaClient("AKIARYBYWS5CTKOJHNWS", "9Hi+5edjlFQfIkCABAL1Nkh8FlmjM4YLbLrWmFrN", RegionEndpoint.USWest2);
+            AmazonLambdaClient client = new AmazonLambdaClient("accessKey", "aws_SecretKey", RegionEndpoint.USWest2);
 
             //Create new InvokeRequest with published function name.
             InvokeRequest invoke = new InvokeRequest

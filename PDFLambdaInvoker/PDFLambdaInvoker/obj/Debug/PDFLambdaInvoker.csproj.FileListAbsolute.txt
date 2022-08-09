@@ -1,0 +1,16 @@
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\PDFLambdaInvoker.exe.config
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\PDFLambdaInvoker.exe
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\PDFLambdaInvoker.pdb
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\AWSSDK.Core.dll
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\AWSSDK.Lambda.dll
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\AWSSDK.Core.pdb
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\AWSSDK.Core.xml
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\AWSSDK.Lambda.pdb
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\AWSSDK.Lambda.xml
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\obj\Debug\PDFLambdaInvoker.csprojAssemblyReference.cache
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\obj\Debug\PDFLambdaInvoker.csproj.CoreCompileInputs.cache
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\obj\Debug\PDFLambdaInvoker.csproj.CopyComplete
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\obj\Debug\PDFLambdaInvoker.exe
+C:\Users\GM\source\repos\PDFLambdaInvoker\PDFLambdaInvoker\obj\Debug\PDFLambdaInvoker.pdb
